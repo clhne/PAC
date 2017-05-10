@@ -1,0 +1,40 @@
+{
+"configs" : [
+  {
+"server" : "67.21.78.225",
+"server_port" : 678,
+"password" : "ntdtv.com",
+"method" : "chacha20",
+"remarks" : ""}
+,
+  {
+"server" : "us.bilibilitv.pw",
+"server_port" : 16862,
+"password" : "namaho.org",
+"method" : "aes-256-cfb",
+"remarks" : ""}
+,
+  {
+"server" : "ss6.ubox.co",
+"server_port" : 8388,
+"password" : "password",
+"method" : "aes-256-cfb",
+"remarks" : "https://www.vbox.co/"}
+,
+  {
+"server" : "198.98.101.14",
+"server_port" : 443,
+"password" : "P&2Xa472%u",
+"method" : "aes-256-cfb",
+"remarks" : ""}
+
+],
+"strategy" : null,
+"index" : 0,
+"global" : true,
+"enabled" : true,
+"shareOverLan" : true,
+"isDefault" : false,
+"localPort" : 1080,
+"pacUrl" : "https://raw.githubusercontent.com/kgfw/fg/master/ios/ios.pac",
+"useOnlinePac" : false}
