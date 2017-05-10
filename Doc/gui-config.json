@@ -27,10 +27,45 @@
 "password" : "P&2Xa472%u",
 "method" : "aes-256-cfb",
 "remarks" : ""}
+,
+  {
+"server" : "216.189.158.147",
+"server_port" : 28742,
+"password" : "doub.io28742",
+"method" : "chacha20",
+"remarks" : ""}
+,
+  {
+"server" : "104.128.236.22",
+"server_port" : 8976,
+"password" : "0rhL5JGK",
+"method" : "rc4-md5",
+"remarks" : ""}
+,
+  {
+"server" : "ss1.ubox.co",
+"server_port" : 8388,
+"password" : "password",
+"method" : "aes-256-cfb",
+"remarks" : ""}
+,
+  {
+"server" : "leifeng.yuweining.cn",
+"server_port" : 6600,
+"password" : "sass.wang",
+"method" : "chacha20",
+"remarks" : ""}
+,
+  {
+"server" : "s2.x3x.bid",
+"server_port" : 443,
+"password" : "kingss.win",
+"method" : "aes-256-cfb",
+"remarks" : ""}
 
 ],
 "strategy" : null,
-"index" : 0,
+"index" : 8,
 "global" : true,
 "enabled" : true,
 "shareOverLan" : true,
